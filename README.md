@@ -78,6 +78,7 @@ streamlit run app.py
 ---
 
 The app is usually accessed at ` http://localhost:8501`
+
 ##Example Prediction
 Example inputs for predicting an employee likely to leave:
 
