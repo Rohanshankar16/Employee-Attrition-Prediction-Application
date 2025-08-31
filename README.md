@@ -1,10 +1,9 @@
 # Employee-Attrition-Prediction-Application
-Overview
+Overview:
 
-This project is a web-based application that predicts whether an employee is likely to leave a company (attrition) using a machine learning model (Random Forest).
-The app is built using Python, Scikit-learn, Pandas, and Streamlit for the front-end interface.
-
-The app is user-friendly and designed for non-developers, with human-readable input fields and probability of leaving displayed.
+*Item 1This project is a web-based application that predicts whether an employee is likely to leave a company (attrition) using a machine learning model (Random Forest).
+*Item 2The app is built using Python, Scikit-learn, Pandas, and Streamlit for the front-end interface.
+*Item 3The app is user-friendly and designed for non-developers, with human-readable input fields and probability of leaving displayed.
 
 Features
 
