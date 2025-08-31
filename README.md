@@ -47,7 +47,7 @@ Clone the repository
 '''bash
 git clone <your-repo-url>
 cd Employee-Attrition-Prediction
-.md
+exit 
 Create a virtual environment
 '''bash
 python -m venv venv
