@@ -75,8 +75,8 @@ pip install -r requirements.txt
  ```bash
 streamlit run app.py
 ```
-
-The app is usually accessed at ` http://localhost:8501`
+6.The app is usually accessed at ` http://localhost:8501`
+  
 ---
 
 ##  Example Prediction
