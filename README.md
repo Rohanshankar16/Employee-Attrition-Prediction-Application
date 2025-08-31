@@ -42,15 +42,6 @@ Install the requirements using:
 ```bash
 pip install pandas numpy scikit-learn streamlit
 
-##How to run
-Clone the repository
-'''bash
-git clone <your-repo-url>
-cd Employee-Attrition-Prediction
-exit 
-Create a virtual environment
-'''bash
-python -m venv venv
 
 
 
