@@ -75,23 +75,24 @@ pip install -r requirements.txt
  ```bash
 streamlit run app.py
 ```
----
 
 The app is usually accessed at ` http://localhost:8501`
+---
 
-##Example Prediction
-Example inputs for predicting an employee likely to leave:
+##  Example Prediction
 
--Age: 25
--Daily Rate: 400
--Education: Bachelor
--Job Role: Sales Executive
--Marital Status: Single
--Monthly Income: 3000
--OverTime: Yes
--Job Satisfaction: Low
--Environment Satisfaction: Low
--Work-Life Balance: Bad
+-**Example inputs for predicting an employee likely to leave**:
+
+  -Age: 25
+  -Daily Rate: 400
+  -Education: Bachelor
+  -Job Role: Sales Executive
+  -Marital Status: Single
+  -Monthly Income: 3000
+  -OverTime: Yes
+  -Job Satisfaction: Low
+  -Environment Satisfaction: Low
+  -Work-Life Balance: Bad
 
 
 
